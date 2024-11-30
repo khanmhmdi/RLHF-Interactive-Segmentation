@@ -1,6 +1,3 @@
-# Save the generated README content into a file named 'README.md'
-
-readme_content = """
 # DDPG with SAM-based Critic
 
 This repository contains the implementation of a Deep Deterministic Policy Gradient (DDPG) agent with a SAM-based (Segment Anything Model) critic. The code leverages replay buffers, actor-critic networks, and SAM's capabilities for segmentation-based tasks.
