@@ -1,0 +1,15 @@
+name: UnSegQC
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - pip
+  - scipy
+  - pandas
+  - python
+  - pytorch
+  - scikit-learn
+  - pip:
+    - medpy
